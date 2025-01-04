@@ -1,0 +1,1 @@
+print ('Main.py from the main priject2')
